@@ -19,14 +19,15 @@ Features
     Supported devices: Arduino Uno, Nano, Mega, etc.  
     More! See the wiki https://github.com/TMRh20/TMRpcm/wiki/Advanced-Features  
     
-MOD version
+MOD version  
+  
     Library by TMRh20 2012-2014
     CKD - Pham Duy Anh modify TMRpcm library
-    2017-06-25	Add more comment
-    2017-06-27	Short Cut to use only Arduino UNO or ATmega328 with 8 bit stereo audio
-    - del MODE2
-    - del DISABLE_SPEAKER2, always use two output 9 & 10
-    - del STEREO_OR_16BIT
-    - del USE_TIMER2, always use TIMER1 16bit
+    2017-06-25	Add more comment  
+    2017-06-27	Short Cut to use only Arduino UNO or ATmega328 with 8 bit stereo audio  
+    - del MODE2  
+    - del DISABLE_SPEAKER2, always use two output 9 & 10  
+    - del STEREO_OR_16BIT  
+    - del USE_TIMER2, always use TIMER1 16bit  
     - del rampMega
     - del ENABLE_MULTI
